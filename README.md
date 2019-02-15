@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Ovchinnikov et al., "Role of framework mutations and antibody flexibility in the evolution of broadly neutralizing antibodies". eLife, 2018. http://dx.doi.org/10.7554/eLife.33038
+
 # Overview
 
 This repository contains data, code, and analysis for the simulations of molecular dynamics and affinity maturation presented in
